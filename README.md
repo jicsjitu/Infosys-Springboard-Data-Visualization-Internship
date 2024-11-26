@@ -52,6 +52,16 @@ A comprehensive Financial Sales Dashboard in Power BI showcasing financial metri
 - Interactive elements like slicers and drill-throughs for detailed analysis.
 - A user-friendly dashboard to monitor financial health.
 
+### **Milestone Report_4: Finance Dashboard**  
+
+- **Description**:  
+  Developed an interactive **Finance Dashboard** in Power BI to analyze key financial metrics, including total sales, total profits by country, net profit, and profit margins. The dashboard provides a comprehensive view of financial performance, enabling stakeholders to make data-driven decisions.  
+
+- **Key Highlights**:  
+  - **Dynamic Visuals**: Includes KPI cards, bar charts, and line graphs for detailed insights.  
+  - **Interactive Elements**: Added slicers and filters for customized data exploration.  
+  - **Key Metrics**: Total Sales, Net Profit, and Profit Margins.  
+
 ### 🛠️ Technologies Used
 
 - Power BI: For data visualization and dashboard creation.
